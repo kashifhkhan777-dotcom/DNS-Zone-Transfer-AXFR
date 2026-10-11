@@ -1,0 +1,19 @@
+
+; <<>> DiG 9.20.29-1-Debian <<>> dev.insecurecorp.org @127.0.0.1 axfr
+; (1 server found)
+;; global options: +cmd
+dev.insecurecorp.org.	604800	IN	SOA	ns1.dev.insecurecorp.org. admin.dev.insecurecorp.org. 2026031901 604800 86400 2419200 604800
+dev.insecurecorp.org.	604800	IN	NS	ns1.dev.insecurecorp.org.
+db.dev.insecurecorp.org. 604800	IN	A	192.168.130.30
+dev.dev.insecurecorp.org. 604800 IN	A	192.168.130.20
+ns1.dev.insecurecorp.org. 604800 IN	A	192.168.130.53
+old-db.dev.insecurecorp.org. 604800 IN	A	192.168.130.60
+superhiddenrecord.dev.insecurecorp.org.	604800 IN A 192.168.130.99
+vpn.dev.insecurecorp.org. 604800 IN	A	192.168.130.50
+www.dev.insecurecorp.org. 604800 IN	A	192.168.130.10
+dev.insecurecorp.org.	604800	IN	SOA	ns1.dev.insecurecorp.org. admin.dev.insecurecorp.org. 2026031901 604800 86400 2419200 604800
+;; Query time: 0 msec
+;; SERVER: 127.0.0.1#53(127.0.0.1) (TCP)
+;; WHEN: Sun Oct 11 16:27:10 EDT 2026
+;; XFR size: 10 records (messages 1, bytes 325)
+
